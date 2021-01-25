@@ -1,5 +1,8 @@
 <!-- TODO: cover -->
-<!-- TODO: links -->
+
+[![](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:evaldaslatoskinas@gmail.com)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/evaldas-latoskinas/)
+[![](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://elatoskinas.github.io/)
 
 ### Hello! 👋
 
@@ -37,7 +40,7 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Mac%20OSx-informational?style=flat&logo=apple&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Android-informational?style=flat&logo=Android&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=000000)/
 ![](https://img.shields.io/badge/-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=000000)
 
 ##### ⛏️ Built Some Stuff / Used A Bit
@@ -60,10 +63,4 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 ![](https://img.shields.io/badge/-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=000000)
 
 ---
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elatoskinas&show_icons=true" />
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elatoskinas" />
-</span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=elatoskinas&show_icons=true" />
