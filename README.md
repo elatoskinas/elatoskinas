@@ -1,8 +1,8 @@
 <!-- TODO: cover -->
 
+[![](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://elatoskinas.github.io/)
 [![](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:evaldaslatoskinas@gmail.com)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/evaldas-latoskinas/)
-[![](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://elatoskinas.github.io/)
 
 ### Hello! 👋
 
