@@ -15,7 +15,6 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 
 ### 🔨 Currently building
 * Helping with [Type4Py](https://arxiv.org/abs/2101.04470) research
-* GitHub README
 * Personal website update (& migration to Gatsby)
 * 2 personal hobby projects, no details for now 😄
 
@@ -40,7 +39,7 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Mac%20OSx-informational?style=flat&logo=apple&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Android-informational?style=flat&logo=Android&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=000000)/
+![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=000000)
 
 ##### ⛏️ Built Some Stuff / Used A Bit
