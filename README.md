@@ -41,6 +41,7 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 ![](https://img.shields.io/badge/-Android-informational?style=flat&logo=Android&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=58C3CE)
 
 ##### ⛏️ Built Some Stuff / Used A Bit
 ![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=Scala&logoColor=white&color=44C97C)
@@ -53,8 +54,8 @@ I am currently a Bachelor's student in CS and love many bits of Computer Science
 ![](https://img.shields.io/badge/-Assembly-informational?style=flat&logo=Linux&logoColor=white&color=44C97C)
 ![](https://img.shields.io/badge/-Electron-informational?style=flat&logo=electron&logoColor=white&color=44C97C)
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=44C97C)
-![](https://img.shields.io/badge/-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=44C97C)
 ![](https://img.shields.io/badge/-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=44C97C)
+![](https://img.shields.io/badge/-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=44C97C)
 
 ##### 📖 Learning / Wish list
 ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=B149CE)
