@@ -31,6 +31,7 @@ I am currently working as a Software Enginneer at Amazon in FinTech, designing &
 ![](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=EA9813)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=EA9813)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=EA9813)
+![](https://img.shields.io/badge/-DynamoDB-informational?style=flat&logo=amazondynamodb&logoColor=white&color=EA9813)
 ![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=EA9813)
 
 ##### 💎 Solid
@@ -44,6 +45,7 @@ I am currently working as a Software Enginneer at Amazon in FinTech, designing &
 ![](https://img.shields.io/badge/-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-EVM-informational?style=flat&logo=ethereum&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-Timescale-informational?style=flat&logo=timescale&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-IPFS-informational?style=flat&logo=ipfs&logoColor=white&color=58C3CE)
